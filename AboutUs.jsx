@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutUs = () => {
   return (
-    <div className="about-us">
+    <div className="about-us-container">
       <h1>About Paradise Nursery</h1>
       <p>
         Paradise Nursery is an online plant store dedicated to bringing beautiful
@@ -18,3 +18,4 @@ const AboutUs = () => {
 };
 
 export default AboutUs;
+
